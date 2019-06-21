@@ -1,0 +1,14 @@
+{
+  "name":"jest_unit_test_demo",
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+
+}
